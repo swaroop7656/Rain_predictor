@@ -1,4 +1,4 @@
-This repo contains 2 ML classifier model 
+This repo contains 2 ML classifier model <br> 
 Logistic regression classifier
 DecisionTree classifier
 Packages need to be onstalled
